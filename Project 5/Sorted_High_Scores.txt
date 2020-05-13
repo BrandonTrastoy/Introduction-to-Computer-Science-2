@@ -1,0 +1,8 @@
+Student Averages Above 85 (Sorted By Average)
+
+Student ID    Average     
+----------    -------     
+2134          85.33         
+2132          85.67         
+6999          91.67         
+3124          94.33         

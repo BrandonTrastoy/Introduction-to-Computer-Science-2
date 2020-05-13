@@ -1,0 +1,4 @@
+Student ID: 2134 Student Avg: 85.33
+Student ID: 2132 Student Avg: 85.67
+Student ID: 6999 Student Avg: 91.67
+Student ID: 3124 Student Avg: 94.33
